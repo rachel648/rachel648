@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rachel648
 - 👀 I’m a great software and web developer
 - 🌱 I’m currently learning at KCAU
-- 💞️ I’m looking forward to collaborate on problem sloving
+- 💞️ I’m looking forward to collaborate on problem solving
 - 📫 How to reach me rachelraqelmurithi@gmail.com
 
 <!---
